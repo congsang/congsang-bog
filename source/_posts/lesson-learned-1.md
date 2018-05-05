@@ -32,7 +32,7 @@ So, there are numerous reasons to pilot::
 #### Summary
 - To be sure, we need to validate our approach, confirm that why I am choosing a tool, language, cost and most importantly the ROI.
 <!-- - This testing is done exactly between the UAT and Production.  -->
-- With your choice, pilot testing will change your development and testing processes. The sooner you have some, the sooner you can start making changes. 
+- With your choice, pilot project will change your development and testing processes. The sooner you have some, the sooner you can start making changes. 
 - It will help easier to secure the resources and cooperation you’ll need to be successful with the larger effort.
 
 > Some of the content i refer from the source:
