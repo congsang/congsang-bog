@@ -75,8 +75,10 @@ disqus_shortname: congsang
 
 # Deployment
 deploy:
-  type:
-
+  type: git
+  repo: https://github.com/congsang/congsang.github.com.git
+  branch: gh-pages
+  
 # Search
 search:
   path: search.xml

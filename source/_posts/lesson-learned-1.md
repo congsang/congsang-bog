@@ -5,7 +5,7 @@ tags: lesson-learned
 categories: sharing
 ---
 
-As I mentioned in the title of the article, why do we need use pilot project to prove feasibility Is it really necessary?
+As I mentioned in the title of the article, why do we need use pilot project to prove feasibility? Is it really necessary?
 
 Before answering those questions, we go through some concepts
 
