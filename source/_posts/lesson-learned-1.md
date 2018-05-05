@@ -14,9 +14,9 @@ Generally, a pilot project is usually some kind of part project or simulated pro
 The output come of a pilot project is a successful/ unsuccessful conclusion.
 It is all about learning the incompatibility to provide solution for a given problem. 
 It verifies the major functionality of the system before going into production.
-This testing is done exactly between the UAT and Production.
+<!-- This testing is done exactly between the UAT and Production.
 Pilot Testing helps in early detection of bugs in the System.
-Pilot testing will answer the question like, whether the product or service have a potential market.
+Pilot testing will answer the question like, whether the product or service have a potential market. -->
 
 #### Why Pilot?
 The objective of a pilot project is to provide information that will enable management to make a better decision about a potential project or programme. 
@@ -31,9 +31,9 @@ So, there are numerous reasons to pilot::
 
 #### Summary
 - To be sure, we need to validate our approach, confirm that why I am choosing a tool, language, cost and most importantly the ROI.
-- This testing is done exactly between the UAT and Production. 
+<!-- - This testing is done exactly between the UAT and Production.  -->
 - With your choice, pilot testing will change your development and testing processes. The sooner you have some, the sooner you can start making changes. 
 - It will help easier to secure the resources and cooperation you’ll need to be successful with the larger effort.
 
-> Some of the content i refer to from the source:
+> Some of the content i refer from the source:
 > https://www.guru99.com/pilot-testing.html 
